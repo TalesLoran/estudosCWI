@@ -1,0 +1,35 @@
+Olá Mundo!
+
+->JS...
+console.log("Hello Word!")
+
+->Ruby...
+puts "Hello Word!"
+
+->C
+#include <stdio.h>
+
+int main(void) {
+  printf("Hello World\n");
+  return 0;
+}
+//Aqui tem que ser muito fera! :D
+
+->C#
+using System;
+
+class Program {
+  public static void Main (string[] args) {
+    Console.WriteLine ("Hello World");
+  }
+}
+
+->Java (S2)//Preferidão do Pai!
+class Main{
+    public static void main(String args[]) {
+        System.out.println("Hello Word");
+    }
+}
+
+->Python
+print("Hello Word!")
